@@ -17,7 +17,7 @@
 
 ### Demo Screeshots
 
-![Nike Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Nike Desktop Demo](./desktop.png "Desktop Demo")
 
 ### Prerequisites
 
