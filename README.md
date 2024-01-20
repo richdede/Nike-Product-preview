@@ -1,7 +1,6 @@
 <div align="center">
   
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamt_toby?style=social)](https://twitter.com/intent/follow?screen_name=iamt_toby)
-[![Instagram Follow](https://img.shields.io/instagram/follow/iamt_toby?style=social)](https://instagram.com/intent/follow?screen_name=iamt_toby)
 
   <br />
   <br />
