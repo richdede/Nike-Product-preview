@@ -9,7 +9,7 @@
 
   Nike is a fully responsive product detail page, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://nike-product-preview.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -32,13 +32,13 @@ To run **Nike-Product-preview** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/nike.git
+sudo git clone https://github.com/richdede/Nike-Product-preview.git
 ```
 
 Windows:
 
 ```bash
-git clone 
+git clone https://github.com/richdede/Nike-Product-preview.git
 ```
 
 ### Contact
